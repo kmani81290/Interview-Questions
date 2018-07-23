@@ -1,0 +1,11 @@
+Q4. What is Docker container?
+This is a very important question so just make sure you don’t deviate from the topic and I will advise you to follow the below 
+mentioned format:
+
+Docker containers include the application and all of its dependencies, but share the kernel with other containers, 
+running as isolated processes in user space on the host operating system. Docker containers are not tied to any specific 
+infrastructure: they run on any computer, on any infrastructure, and in any cloud.
+Now explain how to create a Docker container, Docker containers can be created by either creating a Docker image and then 
+running it or you can use Docker images that are present on the Dockerhub.
+
+Docker containers are basically runtime instances of Docker images.
