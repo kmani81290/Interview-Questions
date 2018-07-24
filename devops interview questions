@@ -1,0 +1,87 @@
+ List the essential DevOps tools.
+Git
+Jenkins
+Selenium
+Puppet
+Chef
+Ansible
+Nagios
+Docker
+Monit
+ELK –Elasticsearch, Logstash, Kibana
+Collectd/Collect
+Git(GitHub)
+
+3. What are the core roles of DevOps Engineers in terms of development and Infrastructure?
+The core job roles of DevOps Engineer
+
+Application development
+Code developing
+Code coverage
+Unit testing
+Packaging
+Deployment With infrastructure
+Continuous Integration
+Continuous Testing
+Continuous Deployment
+Provisioning
+Configuration
+Orchestration
+Deployment
+
+
+4. What are the advantages of DevOps with respect to Technical and Business perspective?
+Technical benefits:
+
+Software delivery is continuous.
+Reduces Complexity in problems.
+Faster approach to resolve problems
+Manpower is reduced.
+Business benefits:
+
+High rate of delivering its features
+Stable operating environments
+More time gained to Add values.
+Enabling faster feature time to market
+
+
+
+11. What are Vagrant and its uses.
+Vagrant used virtual box as the hypervisor for virtual environments and in current scenario 
+it is also supporting the KVM. Kernel-based Virtual Machine
+Vagrant is a tool that can create and manage environments for testing and developing software.
+
+
+
+ The top 10 skills the person should be having for the DevOp’s position?
+Excellent in System Admin
+Virtualization Experience
+Good Technical Skills
+Excellent Scripting
+Good Developing skills
+Chef in Automation Tool Experience
+People Management
+Customer Service
+Real time Cloud operations
+Who care about someone
+
+
+What is a Cloud?
+A cloud is a collaboration of networks, hardware, 
+services, storage, and interfaces that helps in delivering computing as a service. It has three users:
+--End users
+--Business management users
+--Cloud service provider
+
+ What is Cloud Computing?
+It is advance stage technology implemented so that the cloud provides the services globally as per the user requirements. 
+It provides a method to access several servers worldwide.
+
+
+What are the benefits of cloud computing?
+The main benefits of cloud computing are:
+
+ Data backup and storage of data.
+ Powerful server capabilities.
+ Incremented productivity.
+ Cost effective and time saving.
